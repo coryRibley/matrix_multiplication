@@ -11,7 +11,7 @@ def main():
               [0, 0]]
     
     """ 
-    This is a brute force solution to visualize what operations must be done
+    This is a brute force solution to visualize what operations must be done.
 
     TODO Allow user to enter data for both matricies manually.
     Ensure the input is valid I.E. the number of columns of the first matrix match
